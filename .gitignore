@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs e temporários
+*.log
+*.bak
+*.tmp
+
+# Credenciais (nunca commitar)
+.env
+.env.*
+*.pem
+*.key
